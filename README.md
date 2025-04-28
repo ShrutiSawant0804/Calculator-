@@ -9,12 +9,12 @@ Responsive design
 Easy to use  
 Handles basic errors (like invalid expressions)
 
-📂 Technologies Used
+📂 Technologies Used: 
 HTML
 CSS
 JavaScript (Vanilla)
 
-📜 License
+📜 License: 
 This project is open-source and free to use. 🚀
 
 Made with ❤️ by Shruti Sawant
